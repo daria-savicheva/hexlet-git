@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/daria-savicheva/hexlet-git/issues"
   },
-  "homepage": "https://github.com/daria-savicheva/hexlet-git#readme"
+  "homepage": "https://github.com/daria-savicheva/hexlet-git#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
